@@ -7,9 +7,5 @@
 - Basic Backend & API
 - Software Testing
 - UX/UI Design
-## 📌 Projects
-- Resume Website
-- University Web Projects
-- GitHub Pages
 ## 📫 Contact
 - GitHub: arliyasungklin-hub
