@@ -3,6 +3,10 @@
 💻 Interested in Digital Technology, System Analysis, and Software Testing  
 🎨 UX/UI Design | Business Analysis  
 ## 🛠 Skills
+### 💻 Programming Languages
+- Java
+- Python
+- JavaScript
 ### 🌐 Web Technologies
 - HTML
 - CSS
